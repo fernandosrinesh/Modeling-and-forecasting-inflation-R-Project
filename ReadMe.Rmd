@@ -1,6 +1,6 @@
 ---
 title: "Modeling and forecasting inflation in Sri Lanka using ARIMA models"
-author: "Zhaoshuai Wang /  Srinesh Heshan Fernando"
+author: " Srinesh Heshan Fernando"
 date: "2021/6/4"
 output: html_document
 ---
